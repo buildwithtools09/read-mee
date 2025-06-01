@@ -3,9 +3,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-14.x-green.svg)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/express-4.x-blue.svg)](https://expressjs.com/)
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://weather-journal-demo.herokuapp.com)
 
 ## 📋 Overview
 The Weather Journal App is a dynamic web application that combines real-time weather data with personal mood tracking capabilities. This full-stack application demonstrates the integration of the OpenWeatherMap API with a Node.js/Express backend, providing users with current weather information while allowing them to log their emotional state.
+
+## 🌟 Live Demo
+Experience the application live at: [Weather Journal App Demo](https://weather-journal-demo.herokuapp.com)
 
 ## ✨ Key Features
 - Real-time weather data fetching from OpenWeatherMap API
@@ -27,6 +31,20 @@ The Weather Journal App is a dynamic web application that combines real-time wea
   - OpenWeatherMap API for weather data
 - **Data Storage:**
   - Local JSON storage (No database required)
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](https://raw.githubusercontent.com/yourusername/weather-journal-app/main/screenshots/home.png)
+*Main interface with search functionality*
+
+### Weather Display
+![Weather Display](https://raw.githubusercontent.com/yourusername/weather-journal-app/main/screenshots/weather.png)
+*Real-time weather information and mood tracking*
+
+### Mobile View
+![Mobile Responsive](https://raw.githubusercontent.com/yourusername/weather-journal-app/main/screenshots/mobile.png)
+*Responsive design for mobile devices*
 
 ## 📦 Installation & Setup
 
@@ -82,13 +100,6 @@ weather-journal/
 └── README.md          # Project documentation
 ```
 
-## 📸 Screenshots
-[Coming Soon] The application interface will be showcased here, including:
-- Home page layout and design
-- Weather data visualization
-- User input form interface
-- Dynamic response displays
-
 ## 🤝 Contributing
 Contributions are welcome! Here's how you can help:
 
@@ -108,6 +119,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by [Fazian](https://github.com/Fazian)*
 
 [⬆ back to top](#weather-journal-app)
